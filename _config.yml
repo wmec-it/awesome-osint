@@ -1,3 +1,4 @@
-theme: null
+theme: minima
 include:
   - _themes/hacked-jekyll
+verbose: true

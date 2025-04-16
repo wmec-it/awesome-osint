@@ -3,7 +3,9 @@ description: Jekyll microtheme that looks like JSON
 baseurl: /hacked-jekyll
 url: https://piazzai.github.io
 
-theme: hacked-jekyll
+theme: null
+include:
+  - _themes/hacked-jekyll
 
 exclude:
   - LICENSE

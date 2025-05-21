@@ -143,29 +143,37 @@ algorithms, knowledgebase and AI technology.
 * [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 * [Swisscows](https://swisscows.com/)
 
-## [↑](#-table-of-contents) Specialty Search Engines
+## [↑](#-table-of-contents) Speciality Search Engines
 
 *Search engines for specific information or topics.*
 
 * [2lingual Search](http://www.2lingual.com)
+* [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
 * [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [Biznar](http://biznar.com)
+* [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
+* [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 * [CiteSeerX](http://citeseer.ist.psu.edu)
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
+* [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
+* [Fofa](https://en.fofa.info/) - Asset search and analysis tool.
 * [Google Custom Search](http://www.google.com/cse)
-* [GrayhatWarfare](https://grayhatwarfare.com/)
-* [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
-* [Intelligence X](https://intelx.io/tools)
+* [GrayhatWarfare](https://grayhatwarfare.com/) - Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.
+* [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified) 
+* [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
 * [Internet Archive](https://archive.org/)
+* [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
 * [Mamont](https://www.mmnt.ru/)
 * [Million Short](https://millionshort.com)
 * [Netlas.io](https://app.netlas.io/)
+* [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day. 
 * [OCCRP Aleph](https://aleph.occrp.org/)
 * [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [WorldWideScience.org](http://worldwidescience.org)
+* [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 * [Zanran](http://zanran.com)
 
 ## [↑](#-table-of-contents) Dark Web Search Engines Search Engines
@@ -214,24 +222,51 @@ algorithms, knowledgebase and AI technology.
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [0bin](https://0bin.net)
-* [cl1p](https://Cl1p.net)
-* [controlc](https://Controlc.com)
+* [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
+* [cl1p](https://Cl1p.net) - The Internet Clipboard.
+* [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
+* [controlc](https://Controlc.com) - The easiest way to host your text.
+* [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 * [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 * [dpaste2](https://Dpaste.org)
 * [dpaste](https://Dpaste.com)
 * [GitHub gist](https://gist.github.com)
+* [HashBin](https://hashb.in/#Q===) - HashBin is a paste bin that never sees the contents of its pastes.
 * [hastebin](https://www.toptal.com/developers/hastebin/)
 * [ideone](https://Ideone.com)
 * [ivpaste](https://Ivpaste.com)
 * [jsbin](https://Jsbin.com)
 * [justpaste](https://Justpaste.it)
 * [Katbin](https://katb.in)
+* [Logpasta](https://logpasta.com/) - Simple, secure log paste service. Command line mode based.
+* [lesma.eu](https://lesma.eu/) - Simple paste app friendly with browser and command line.
+* [Nachricht](https://nachricht.co/) - With Nachricht.co you can send self-destructive and encrypted one-way messages over the Internet. You don't even need to miss out the messenger or social network of your choice. We are an independent, secure and fully free service!
+* [NoPaste](https://nopaste.boris.sh/) - NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
+* [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
+* [n0paste](https://n0paste.eu/) - Paste and share your code online.
+* [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
+* [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
+* [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
+* [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 * [paste.centos](https://paste.centos.org)
 * [paste.debian](https://Paste.debian.net)
 * [paste.ee](https://Paste.ee)
+* [PasteFree.com](https://pastefree.com/) - Popular Paste and Share Site.
 * [paste.kde](https://Paste.kde.org)
+* [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 * [paste.ubuntu](https://paste.ubuntu.com)
+* [Pastery](https://www.pastery.net/) - The sweetest pastebin in the world!
+* [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
+* [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 * [Rentry](https://rentry.co/)
+* [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
+* [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
+* [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
+* [Spacebin](https://spaceb.in/) 
+* [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
+* [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
+* [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
+* [ZBin](https://zbin.dev/) - Private & Secure Pastebin.
 
 
 ## [↑](#-table-of-contents) Code Search
@@ -368,10 +403,8 @@ algorithms, knowledgebase and AI technology.
 
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
-* [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [VK5](http://vk5.city4me.com)
 * [VK Community Search](http://vk.com/communities)
-* [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
 * [VK People Search](http://vk.com/people)
 * [VK.watch](https://vk.watch/)
 
@@ -381,14 +414,20 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) LinkedIn
 
-* [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
+* 
 
 
 ### [↑](#-table-of-contents) Telegram
-
-* [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
+* [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
+* [Maltego Telegram](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.
+* [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
+* [tgworld](https://tg.world/) - The Global Search System TG.World will help you find Channels, Groups and Bots in Telegram in any language and for any country in the world!
+* [Telegram Channel Joiner](https://github.com/spmedia/Telegram-Channel-Joiner) - grow your Free and Premium Telegram accounts easily with this channel joiner script.
+* [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.  
 * [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+* [Telegram channels scraper TeleGraphite ](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
+* [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
 
 ### [↑](#-table-of-contents) Steam
 
@@ -417,6 +456,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
+* [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
@@ -440,10 +480,12 @@ algorithms, knowledgebase and AI technology.
 * [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
 * [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 * [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+* [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
 * [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 * [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 * [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
+* [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
 * [Clustermaps](https://clustrmaps.com/) - Find people and address information associated with them
 * [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
 * [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
@@ -453,7 +495,7 @@ algorithms, knowledgebase and AI technology.
 * [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 * [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 * [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
-* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent..
 * [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Kompass](http://www.kompass.com) - Business directory and search.
@@ -489,11 +531,13 @@ algorithms, knowledgebase and AI technology.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 * [LeakRadar](https://leakradar.io/) - Scans for compromised emails and domains in stealer logs, offering proactive breach prevention and real-time alerts.
 * [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
+* [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [OSINTEye](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 * [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 * [Pipl](https://pipl.com) - a provider of identity solutions.
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
+* [Secureito](https://www.secureito.com) - Secureito detects data breaches involving your email and suggests protection measures.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
@@ -644,13 +688,15 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Domain and IP Research
 
+* [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
-* [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID 
+* [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
+* [Bgpview.io](https://bgpview.io) - The website bgpview.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net)
-* [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains, and malicious files collected via honeypots.
+* [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNS History](https://completedns.com/dns-history/)
 * [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
@@ -662,16 +708,19 @@ algorithms, knowledgebase and AI technology.
 * [Easy whois](https://www.easywhois.com)
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Follow.net](http://follow.net)
+* [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 * [GraphyStories](http://app.graphystories.com)
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 * [HypeStat](https://www.hypestat.com)
+* [Icann Lookup)(https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * [Infosniper](http://www.infosniper.net)
-* [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
 * [intoDNS](http://www.intodns.com)
 * [IP 2 Geolocation](http://ip2geolocation.com)
 * [IP 2 Location](http://www.ip2location.com/demo.aspx)
+* [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * [IP Checking](http://www.ipchecking.com)
 * [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
+* [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
 * [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * [IPVoid](http://www.ipvoid.com) - IP address toolset.
 * [Kloth](http://www.kloth.net/services)
@@ -679,7 +728,6 @@ algorithms, knowledgebase and AI technology.
 * [MaxMind](https://www.maxmind.com)
 * [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
-* [NetworkTools](http://network-tools.com)
 * [Open Site Explorer](https://moz.com/researchtools/ose)
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/)
 * [PageGlimpse](http://www.pageglimpse.com)
@@ -689,7 +737,6 @@ algorithms, knowledgebase and AI technology.
 * [Quantcast](https://www.quantcast.com)
 * [Quick Sprout](https://www.quicksprout.com)
 * [RedirectDetective](http://redirectdetective.com)
-* [Redirect Explorer](https://www.redirectexplorer.com) - Redirect Explorer will show you where a URL goes, and if it's safe to use. No more guessing!
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
 * [SameID](http://sameid.net)
@@ -702,9 +749,9 @@ algorithms, knowledgebase and AI technology.
 * [SmallSEOTools](http://smallseotools.com)
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [StatsCrop](http://www.statscrop.com)
-* [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 * [urlDNA](https://urldna.io/) -  Unleash website insights! urldna.io analyzes url, monitors brands and track phishing sites.
+* [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
 * [urlQuery](http://urlquery.net)
 * [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 * [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
@@ -1328,6 +1375,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Other Tools
 
+* [aadinternals](https://aadinternals.com/osint) - Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [BeVigil-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
@@ -1336,6 +1384,7 @@ algorithms, knowledgebase and AI technology.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [Discoshell](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+* [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 * [DNSservices](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper. 
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -1357,6 +1406,7 @@ algorithms, knowledgebase and AI technology.
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+* [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 * [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
@@ -1367,6 +1417,7 @@ algorithms, knowledgebase and AI technology.
 * [SpiderSuite](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 * [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+* [Unfurl](https://dfir.blog/unfurl/) - Unfurl analyzes and breaks down URLs into useful forensic components for digital investigation.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 
